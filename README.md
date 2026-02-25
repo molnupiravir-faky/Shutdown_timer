@@ -4,7 +4,7 @@ A Windows desktop utility for scheduling system shutdowns, restarts, hibernation
 
 > 🤖 **This application was entirely created by [Claude AI](https://claude.ai) (Anthropic).**
 
-💡 Ideated, directed, and shipped by [@molnupiravir-faky](https://github.com/molnupiravir-faky) — no coding knowledge required.
+💡 Ideated, directed, and shipped by [@molnupiravir-faky](https://github.com/molnupiravir-faky).
 
 ---
 
